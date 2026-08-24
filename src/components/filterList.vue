@@ -1,5 +1,5 @@
 <template>
-  <h4>62家身心障礙福利機構及團體(庇護工廠)快速查詢</h4>
+  <h4>62家身心障礙福利機構及團體(庇護工場)快速查詢</h4>
   <p>主要是方便大家依照所在地或附近的縣市去快速查詢並超連結網站與撥打電話訂購</p>
   <v-select label="縣市" :items="cityList" @update:model-value="selectChange"> </v-select>
 
