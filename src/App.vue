@@ -5,7 +5,7 @@
         <v-app-bar-nav-icon></v-app-bar-nav-icon>
       </template>
 
-      <v-app-bar-title>庇護工廠快速查詢</v-app-bar-title>
+      <v-app-bar-title>庇護工場快速查詢</v-app-bar-title>
     </v-app-bar>
 
     <v-main>
